@@ -1,5 +1,8 @@
 _repo: Turkey-the-Awakening-of-Turkey-the-Turkish-Revolution-of-1908_51329
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51329-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, E. F. (Edward Frederick)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36594
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederick_Knight
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51329#Turkey-the-Awakening-of-Turkey-the-Turkish-Revolution-of-1908
 gutenberg_issued: '2016-02-29'
 gutenberg_type: Text
 identifiers:
