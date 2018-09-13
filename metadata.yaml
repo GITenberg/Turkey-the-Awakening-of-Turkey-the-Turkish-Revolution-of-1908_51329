@@ -1,0 +1,29 @@
+_repo: Turkey-the-Awakening-of-Turkey-the-Turkish-Revolution-of-1908_51329
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Knight, E. F. (Edward Frederick)
+    alias: Knight, Edward Frederick
+    birthdate: 1852
+    deathdate: 1925
+    gutenberg_agent_id: '36594'
+    url: http://www.gutenberg.org/2009/agents/36594
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Frederick_Knight
+description: ''
+gutenberg_issued: '2016-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51329'
+  lccn: '11007749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Turkey -- History -- 1878-1909'
+- !lcsh 'Turkey -- Politics and government -- 1878-1909'
+- !lcc 'DR'
+- !lcsh 'Eastern question (Balkan)'
+- GITenberg
+title: Turkey; the Awakening of Turkey; the Turkish Revolution of 1908
+url: http://www.gutenberg.org/ebooks/51329
